@@ -1,0 +1,38 @@
+{
+    "gateways": [
+      {
+        "country": "USA",
+        "carriers": [
+          { "name": "AT&T", "sms": "number@txt.att.net", "mms": "number@mms.att.net" },
+          { "name": "T-Mobile", "sms": "number@tmomail.net", "mms": "number@tmomail.net" },
+          { "name": "Verizon", "sms": "number@vtext.com", "mms": "number@vzwpix.com" },
+          { "name": "Sprint (now T-Mobile)", "sms": "number@messaging.sprintpcs.com", "mms": "number@pm.sprint.com" },
+          { "name": "US Cellular", "sms": "email.uscc.net", "mms": "email.uscc.net"},
+          { "name": "Cricket", "sms": "mms.cricketwireless.net", "mms": "mms.cricketwireless.net"},
+          { "name": "Boost Mobile", "sms": "myboostmobile.com", "mms": "myboostmobile.com" },
+          { "name": "Metro PCS", "sms": "mymetropcs.com", "mms": "mymetropcs.com" },
+          { "name": "Virgin Mobile", "sms": "vmobl.com", "mms": "vmpix.com" },
+          { "name": "Google Fi", "sms": "msg.fi.google.com", "mms": "msg.fi.google.com" },
+          { "name": "Consumer Cellular AT&T", "sms": "number@txt.att.net", "mms": "number@mms.att.net" },
+          { "name": "Consumer Cellular T-Mobile", "sms": "mailmymobile.net", "mms": "mailmymobile.net" },
+          { "name": "Project Fi", "sms": "msg.fi.google.com", "mms": "msg.fi.google.com" },
+          { "name": "Xfinity Mobile", "sms": "vtext.com", "mms": "mypixmessages.com" },
+          { "name": "Mint Mobile", "sms": "mailmymobile.net", "mms": "mailmymobile.net" },
+          { "name": "Republic Wireless", "sms": "text.republicwireless.com", "mms": "text.republicwireless.com" },
+          { "name": "Straight Talk", "sms": "vtext.com", "mms": "mypixmessages.com" },
+          { "name": "Tracfone", "sms": "mmst5.tracfone.com", "mms": "mmst5.tracfone.com" },
+          { "name": "Simple Mobile", "sms": "smtext.com", "mms": "smtext.com" },
+          { "name": "Page Plus", "sms": "vtext.com", "mms": "mypixmessages.com" },
+          { "name": "Net10", "sms": "mmst5.net10.com", "mms": "mmst5.net10.com" },
+          { "name": "Ultra Mobile", "sms": "ultra.me", "mms": "ultra.me" },
+          { "name": "Red Pocket Mobile", "sms": "vtext.com", "mms": "mypixmessages.com" },
+          { "name": "Ting", "sms": "message.ting.com", "mms": "message.ting.com" },
+          { "name": "Wing", "sms": "sms.wingalpha.com", "mms": "mms.wingalpha.com" },
+          { "name": "Credo Mobile", "sms": "messaging.credomobile.com", "mms": "messaging.credomobile.com" },
+          { "name": "FreedomPop", "sms": "txt.freedompop.com", "mms": "txt.freedompop.com" },
+          { "name": "Good2Go Mobile", "sms": "vtext.com", "mms": "mypixmessages.com" },
+          { "name": "H2O Wireless", "sms": "mms.h2owirelessnow.com", "mms": "mms.h2owirelessnow.com" }
+        ]
+      }
+    ]
+}

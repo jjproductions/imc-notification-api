@@ -1,0 +1,49 @@
+{
+    "userInfo": [
+        {
+            "id": 3,
+            "email": "knelson@instituteofmusic.org",
+            "carrrier": ""
+        },
+        {
+            "id": 4,
+            "email": "asouder@instituteofmusic.org",
+            "carrrier": ""
+        },
+        {
+            "id": 5,
+            "email": "egomez@instituteofmusic.org",
+            "carrrier": ""
+        },
+        {
+            "id": 6,
+            "email": "jnorth@instituteofmusic.org",
+            "carrrier": ""
+        },
+        {
+            "id": 8,
+            "email": "kschwartz@instituteofmusic.org",
+            "carrrier": ""
+        },
+        {
+            "id": 9,
+            "email": "dgent@instituteofmusic.org",
+            "carrrier": ""
+        },
+        {
+            "id": 10,
+            "email": "bbryant@instituteofmusic.org",
+            "carrrier": ""
+        },
+        {
+            "id": -1,
+            "email": "tdempewolf@instituteofmusic.org",
+            "carrrier": ""
+        },
+        {
+            "id": -1,
+            "email": "jbagby@instituteofmusic.org",
+            "carrrier": ""
+        }
+    ]
+}
