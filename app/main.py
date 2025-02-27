@@ -17,8 +17,8 @@ app.add_middleware(
 async def api_key_middleware(request, call_next):
     api_key = request.headers.get("api-key")
     # print(f'API Key Middleware: {api_key}')
-    if not verify_api_key(api_key):
-        raise HTTPException(status_code=403, detail="Invalid API Key")
+    # if not verify_api_key(api_key):
+    #     raise HTTPException(status_code=403, detail="Invalid API Key")
     response = await call_next(request)
     return response
 

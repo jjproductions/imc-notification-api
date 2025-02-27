@@ -9,3 +9,8 @@ class NotificationRequest(BaseModel):
     email: EmailStr
     phoneNumber: str
     emailInfo: EmailInfo
+
+class NotificationResponse(BaseModel):
+    cardId: int
+    email: str
+    status: str
